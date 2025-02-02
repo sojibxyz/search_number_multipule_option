@@ -7,7 +7,7 @@ how to use?
 
 step-1
 git clone
-search_number.py
+python Number_Search.py
 
 Step-2
 Enter Phone number:
