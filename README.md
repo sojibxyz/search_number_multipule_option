@@ -5,6 +5,10 @@ you can search phone number here,, it provided search engine and some socail med
 
 how to use?
 
+first install it.
+import requests
+from bs4 import BeautifulSoup
+
 step-1
 git clone
 python Number_Search.py
